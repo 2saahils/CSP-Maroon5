@@ -19,7 +19,7 @@ h1, h2, p, li {
 table, th, td {
 	border: 15px solid black;
 	font-size: 50px;
-	color: black;
+	color: white;
 }
 
 
@@ -39,6 +39,10 @@ th{
 
 a{
 	font-size: 30px;
+}
+
+.tabletext{
+color: white;
 }
 
 /* unvisited link */
@@ -110,4 +114,8 @@ display:block;
 #Page2Title {
 	font-size: 100px;
 	text-align: center;
+}
+
+.white{
+	color: rgb(255,255,255);
 }
